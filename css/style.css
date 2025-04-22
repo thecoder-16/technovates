@@ -334,7 +334,7 @@ a:focus {
   margin-left: auto; /* Pushes the box to the extreme right */
   padding-right: 200px; /* Removes extra padding */
   right: 0; /* Ensures the box is at the extreme right */
-  transform: translateY(-75px);
+  transform: translateY(20px);
 }
 
 
